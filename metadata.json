@@ -1,0 +1,6 @@
+{
+  "name": "EduVision AR",
+  "description": "แพลตฟอร์มการเรียนรู้ผ่าน AI และ WebAR สำหรับนักเรียนทุกระดับชั้น สแกนหนังสือเรียนแล้วแปลงเป็นสื่อ 3D โต้ตอบได้",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
